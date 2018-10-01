@@ -5,8 +5,8 @@ provided RAML specification.
 
 Please complete **any** number of the steps below within **5 days** of us
 sending you this document. You may put in as many hours as you wish, but we
-recommend a maximum of around 5 hours. Use any framework and languages you
-would like (Java encouraged) to complete the task.  Update
+recommend a maximum of around 5 hours. Please use Java 1.8 or higher and any framework 
+you would like to complete the task.  Update
 your forked repository with your solution and a README.md with any steps needed to run it.
 
 We are looking for code quality and innovation/thoughtfulness.
